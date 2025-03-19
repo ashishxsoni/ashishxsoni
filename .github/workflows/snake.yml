@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *" # Runs once a day at midnight
-  workflow_dispatch: # Allows manual run
+  workflow_dispatch: # Allows manual execution
 
 jobs:
   generate-snake:
@@ -18,10 +18,13 @@ jobs:
           github_user_name: ashishxsoni
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Publish Snake Animation to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and Push Snake Animation
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output
+          git rm -rf .
+          mv dist/github-contribution-grid-snake.svg .
+          git add github-contribution-grid-snake.svg
+          git commit -m "Generated snake animation"
+          git push -f origin output
