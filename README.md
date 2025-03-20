@@ -148,8 +148,9 @@ I'm a passionate **Full Stack Developer** and **Competitive Programmer** pursuin
 </div>
 
 ---
-
+<!--
 <div align="center">
   <img src="https://github.com/ashishxsoni/ashishxsoni/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+-->
 
