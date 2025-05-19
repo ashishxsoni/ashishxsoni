@@ -3,11 +3,14 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=500&height=60&lines=Full+Stack+Developer;Competitive+Programmer;GDSC+CP+Team+Lead;1300%2B+DSA+Problems+Solved" alt="Typing SVG" />
 </div>
-
+<div>
+</div>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishxsoni&label=Profile%20views&color=0e75b6&style=flat" alt="ashishxsoni" /> </p> -->
+<div>
 <div align="center">
-  <a href="https://github.com/ashishxsoni">
-    <img src="https://komarev.com/ghpvc/?username=ashishxsoni&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  </a>
+  
+  <p align="center">  <img src="https://komarev.com/ghpvc/?username=ashishxsoni&color=blueviolet&style=for-the-badge" alt="Profile Views" /></p>
+  
 </div>
 
 <hr/>
