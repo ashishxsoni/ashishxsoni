@@ -145,10 +145,10 @@ I'm a passionate **Full Stack Developer** and **Competitive Programmer** pursuin
       <td>
         <ul>
           <li>Qualified multiple Competitive Exams: UPSC NDA, IAF X (TECH), INDIAN NAVY AA/SSR</li>
-          <li>Global Rank 1575 among 50,000+ participants in Leetcode Weekly contest 439</li>
-          <li>Solved 1300+ DSA problems, ranking in top 10% on various coding platforms</li>
+          <li>Global Rank 412 among 30,000+ participants in Leetcode Weekly contest 412</li>
+          <li>Solved 1300+ DSA problems, ranking in top 5% on various coding platforms</li>
           <li>Secured 1st rank in HackQuest, a competitive programming contest with 1000+ participants</li>
-          <li>Ranked in top 7% of global LeetCode users with peak contest rating of 1797</li>
+          <li>Ranked in top 4% of global LeetCode users with peak contest rating of 1955</li>
         </ul>
       </td>
     </tr>
