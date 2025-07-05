@@ -43,6 +43,9 @@ I'm a passionate **Full Stack Developer** and **Competitive Programmer** pursuin
   <a href="https://github.com/ashishxsoni">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://ashishxsoniportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 ## 🚀 Projects
